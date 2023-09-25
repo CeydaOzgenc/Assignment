@@ -1,0 +1,24 @@
+16. Takim
+Bayrak yarisi bitiris süresi: 283.33
+Sıralaması: 384
+1.Koşucu hızı: 2m/s parkur bitirme hızı:50
+2.Koşucu hızı: 1m/s parkur bitirme hızı:100
+3.Koşucu hızı: 1m/s parkur bitirme hızı:100
+4.Koşucu hızı: 3m/s parkur bitirme hızı:33.33
+
+38. Takim
+Bayrak yarisi bitiris süresi: 158.33
+Sıralaması: 144
+1.Koşucu hızı: 2m/s parkur bitirme hızı:50
+2.Koşucu hızı: 4m/s parkur bitirme hızı:25
+3.Koşucu hızı: 3m/s parkur bitirme hızı:33.33
+4.Koşucu hızı: 2m/s parkur bitirme hızı:50
+
+190. Takim
+Bayrak yarisi bitiris süresi: 200
+Sıralaması: 253
+1.Koşucu hızı: 4m/s parkur bitirme hızı:25
+2.Koşucu hızı: 1m/s parkur bitirme hızı:100
+3.Koşucu hızı: 2m/s parkur bitirme hızı:50
+4.Koşucu hızı: 4m/s parkur bitirme hızı:25
+

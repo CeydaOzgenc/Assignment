@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1695591208 source:c:\users\ceyda\onedrive\masaüstü\assignment\main.cpp
+	<iostream>
+	<thread>
+	<vector>
+	<chrono>
+	<string>
+	<mutex>
+
