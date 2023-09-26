@@ -146,7 +146,7 @@ int main() {
         file.close();
         std::cout << "Dosyaya yazma tamamlandi." << std::endl;
     } else {
-        std::cout << "Dosya oluşturulamadı." << std::endl;
+        std::cout << "Dosya olusturulamadi." << std::endl;
     }
 
     return 0;
